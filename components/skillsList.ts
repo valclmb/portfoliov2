@@ -1,12 +1,12 @@
-import MongodbSvg from "./../public/skills/mongodb.svg";
-import NextJsSvg from "./../public/skills/nextjs.svg";
-import NodeJsSvg from "./../public/skills/nodejs.svg";
-import PhpSvg from "./../public/skills/php.svg";
-import PostgresqlSvg from "./../public/skills/postgresql.svg";
-import ReactSvg from "./../public/skills/react.svg";
-import TailwindCssSvg from "./../public/skills/tailwindcss.svg";
-import ThreeJsSvg from "./../public/skills/threejs.svg";
-import TypescriptSvg from "./../public/skills/typescript.svg";
+import MongodbSvg from "/assets/skills/mongodb.svg";
+import NextJsSvg from "/assets/skills/nextjs.svg";
+import NodeJsSvg from "/assets/skills/nodejs.svg";
+import PhpSvg from "/assets/skills/php.svg";
+import PostgresqlSvg from "/assets/skills/postgresql.svg";
+import ReactSvg from "/assets/skills/react.svg";
+import TailwindCssSvg from "/assets/skills/tailwindcss.svg";
+import ThreeJsSvg from "/assets/skills/threejs.svg";
+import TypescriptSvg from "/assets/skills/typescript.svg";
 
 export const skillsList = [
   {
